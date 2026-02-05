@@ -15,6 +15,6 @@
 
 ---
 
-![Li's GitHub stats](https://github-readme-stats.vercel.app/api?username=powerli2002&show_icons=true&theme=transparent)
+![Li's GitHub stats](https://github-readme-stats-liard-chi-26.vercel.app/api?username=powerli2002&show_icons=true&theme=transparent)
 
 
